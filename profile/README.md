@@ -1,6 +1,6 @@
 # ifryan-openclaw 仓库列表
 
-- 当前仓库总数：**1**
+- 当前仓库总数：**5**
 
 ## Repositories
 
